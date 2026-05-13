@@ -6,6 +6,7 @@
 - 14 titanium containers (7 large for produce, 7 small for powder)
 - Large thermos or drinking container (2L+)
 - Small glass for broccoli sprout shot
+- the patience to take forever preparing this the first few times, as you get familiar with it. tbh maybe half of this shake, every other day, and use it kinda like a supplement, since real food is yummy.
 
 # OTHER FILE IN THIS REPO .xlsx HAS EXTREMELY DETAILED INFO ON NUTRIENTS. Data is not too reliable, but for 30+ ingredients and the amount of compounds we are targeting, its as close as we can get without running/paying for lab testing ourselves, or too many hours of manual research. If you have a way to reliably calculate the compounds of each nutrient, please let me know!
 ---
