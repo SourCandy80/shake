@@ -92,6 +92,7 @@ Put blender on scale. Add everything in this order (tare between items or track 
 - 50g macadamia halves
 - 1 medjool date (pitted)
 - 20g allulose
+- 2.5g monk fruit liquid
 
 ### 3. Frozen produce
 - Dump frozen produce container (berries, watermelon, avocado, kale, spinach)
