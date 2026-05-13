@@ -7,6 +7,7 @@
 - Large thermos or drinking container (2L+)
 - Small glass for broccoli sprout shot
 
+# OTHER FILE IN THIS REPO .xlsx HAS EXTREMELY DETAILED INFO ON NUTRIENTS. Data is not too reliable, but for 30+ ingredients and the amount of compounds we are targeting, its as close as we can get without running/paying for lab testing ourselves, or too many hours of manual research. If you have a way to reliably calculate the compounds of each nutrient, please let me know!
 ---
 
 ## Weekly Prep (30 min, once a week)
